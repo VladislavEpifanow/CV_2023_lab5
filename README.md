@@ -29,6 +29,8 @@ Per-pixel accuracy:
 
 ## Результаты
 Модель Unet, оптимизатор - Adam, lоss - Cross-Entropy, batch_size = 8, количество эпох - 100  
+
+[Ссылка на решение в Google Colab](https://colab.research.google.com/drive/1l8Wgb1Id8Xbw39OiEHOJjpQ1lVCH4PIZ?usp=sharing)
 Результаты на тестовой выборке:
 Test IoU = 0.48
 Test Channel IoU = [0.59,0 0.50, 0.87, 0.64, 0.50, 0.23, 0.47, 0.49]  
