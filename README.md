@@ -33,6 +33,19 @@ Per-pixel accuracy:
 [Ссылка на решение в Google Colab](https://colab.research.google.com/drive/1l8Wgb1Id8Xbw39OiEHOJjpQ1lVCH4PIZ?usp=sharing)
 
 
+Пример работы на изображении:
+* Исходное изображение:
+  
+![real_img](https://github.com/VladislavEpifanow/CV_2023_lab5/blob/main/results/real_img3.png)
+* Результат модели:
+  
+![model_img](https://github.com/VladislavEpifanow/CV_2023_lab5/blob/main/results/got_mask3.png)
+* Реальная маска:
+  
+![model_img](https://github.com/VladislavEpifanow/CV_2023_lab5/blob/main/results/real_mask3.png)
+
+
+
 Результаты на тестовой выборке:
 Test IoU = 0.48
 
